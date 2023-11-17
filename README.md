@@ -1,4 +1,5 @@
-![Screenshot 2023-10-15 110154](https://github.com/shivkolekar/recipes-website/assets/87165724/5b425729-9ccf-4499-ad36-a6f3dedd6356)# recipes-website
+# recipes-website
+
 # About:
 A simple webpage made during the foundations course on the Odin Project. Clicking on a recipe link will show the instructions and ingredients required to make the dish.
 # links:
