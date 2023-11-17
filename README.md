@@ -4,7 +4,7 @@
 A simple webpage made during the foundations course on the Odin Project. Clicking on a recipe link will show the instructions and ingredients required to make the dish.
 # links:
 
-website:http://192.168.0.103:3000/index.html
+[See my Recipe page here ](http://192.168.0.103:3000/index.html)
 
 assignment:https://www.theodinproject.com/lessons/foundations-recipes
 # screenshots:
