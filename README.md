@@ -4,7 +4,7 @@
 A simple webpage made during the foundations course on the Odin Project. Clicking on a recipe link will show the instructions and ingredients required to make the dish.
 # links:
 
-[See my Recipe page here ]([http://192.168.0.103:3000/index.html)](https://joyful-strudel-5460dd.netlify.app)
+[See my Recipe page here ](https://joyful-strudel-5460dd.netlify.app)]
 
 assignment:https://www.theodinproject.com/lessons/foundations-recipes
 # screenshots:![Screenshot 2023-11-18 174724](https://github.com/shivkolekar/recipes-website/assets/87165724/e5252a64-2e5b-43ce-8a0f-2569a6ca131d)
